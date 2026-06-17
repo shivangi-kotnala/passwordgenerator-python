@@ -1,5 +1,6 @@
 # passwordgenerator-python
 A password generator with strength checker
+
 ##✨Features
 -Choose password length (6–32 characters)
 -Option to include Uppercase letter
