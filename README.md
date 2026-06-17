@@ -2,13 +2,13 @@
 A password generator with strength checker
 
 ## ✨Features  
--Choose password length (6–32 characters).  
--Option to include Uppercase letter.   
--Option to include Numbers.    
--Option to include Symbols (!@#$).   
--Strength checker (Weak / Medium / Strong).  
--Generate multiple passwords at once.  
--Option to generate more without restarting.  
+- Choose password length (6–32 characters).  
+- Option to include Uppercase letter.   
+- Option to include Numbers.    
+- Option to include Symbols (!@#$).   
+- Strength checker (Weak / Medium / Strong).  
+- Generate multiple passwords at once.  
+- Option to generate more without restarting.  
 ## 💪 Strength Ratings.
 
 | Conditions Met | Rating |
