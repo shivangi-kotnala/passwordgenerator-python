@@ -6,9 +6,9 @@ A password generator with strength checker
 -Option to include Uppercase letter.   
 -Option to include Numbers.    
 -Option to include Symbols (!@#$).   
--Strength checker (Weak / Medium / Strong).
--Generate multiple passwords at once.
--Option to generate more without restarting.
+-Strength checker (Weak / Medium / Strong).  
+-Generate multiple passwords at once.  
+-Option to generate more without restarting.  
 ## 💪 Strength Ratings.
 
 | Conditions Met | Rating |
